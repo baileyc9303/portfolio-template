@@ -2,5 +2,5 @@ format: jb-book
 root: intro
 chapters:
   - file: about
-  - file: syllabus
+  - file: success
 # - file: submission_1_intro
