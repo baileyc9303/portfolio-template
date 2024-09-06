@@ -5,15 +5,14 @@
 to help demonstrate that you understand how you'll be graded in the course,
 state what grade you plan to earn and how you will do that, including what you
 will do if not everything goes perfectly. For example:
-I plan to earn a C by participating actively in class and practicing after class
-while reading the notes.  If I struggle with a concept or miss classes, I will
+I plan to earn a C by participating actively in class and using office hours for oral exams to earn level 1.  If I struggle with a concept or miss classes, I will
 submit pseudocode and explanations to the corresponding assignments to earn
 those level 1 achievements.-->
 
 
 ## Office Hours
 
-<!-- TODO: find the office hours and make links to it -->
+<!-- TODO: find the office hours and make links to it by putting them in the () -->
 
 - [course website (times only)]()
 - [course GitHub org (zoom links)]()
@@ -21,7 +20,7 @@ those level 1 achievements.-->
 
 ## Communications 
 
-<!-- TODO: fill in when to use each of these -->
+<!-- TODO: fill in when to use each of these after the :-->
 
 I understand the right time to use each mode of communication
 
@@ -34,7 +33,7 @@ I understand the right time to use each mode of communication
 
 ## Assignment Policies
 
-<!-- TODO: Delete the false statements below -->
+<!-- TODO: Delete the false statements in each subsection below -->
 
 ### Deadlines
 
