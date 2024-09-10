@@ -33,3 +33,6 @@ define data science in your own words. -->
 <!-- TODO:  -->
 
 
+## My name is Bailey Chapman, a junior at URI. I switched to data science this summer (2024) so I am very new to the data science concepts. I have been studying computer science, however, since my sophomore year of high school. I haven't used Python since my Junior year of high school so I am still trying to adjust to Python. I am taking this class so I can understand programming within the data science field and hopefully get a good sense of the switch from computer science to data science. Hopefully, in my career, I can create a better care system for shelter animals and create better environments for animals who are bred. My favorite hobby is playing instruments and making music.
+
+## Data science to me is the use of statistics and data sets to create algorithms and answer specified questions. Data science is also used to create strategic business models and algorithms. 
